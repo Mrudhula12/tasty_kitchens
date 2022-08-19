@@ -1,0 +1,52 @@
+.each-food-detail-container {
+    display: flex;
+    flex-direction: row;
+    margin: 24px;
+  }
+  .each-item-image {
+    margin-right: 11px;
+  }
+  .food-details-image {
+    border-radius: 14px;
+    width: 33vh;
+  }
+  .each-item-details-container {
+    display: flex;
+    flex-direction: column;
+  }
+  .name {
+    font-size: 21px;
+    width: 21vh;
+  }
+  .cost-container {
+    display: flex;
+    margin-top: 0;
+    line-height: 1.1em;
+  }
+  
+  .add-item-button {
+    height: 21px;
+    width: 41px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 11px;
+    color: #ffa412;
+    padding: 1px;
+    border: 1px solid #ffa412;
+    border-radius: 2px;
+    background-color: transparent;
+    margin-top: 0;
+  }
+  
+  .li-food {
+    display: flex;
+    margin: 11px;
+  }
+  
+  .food1 {
+    border-radius: 22px;
+    margin-left: 6px;
+    margin-right: 6px;
+    width: 22vh;
+  }

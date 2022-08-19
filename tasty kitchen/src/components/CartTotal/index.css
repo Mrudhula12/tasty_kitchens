@@ -1,0 +1,42 @@
+.order-total-value {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 450;
+    font-size: 23px;
+    line-height: 31px;
+    color: #3e4c59;
+    margin-left: 38px;
+  }
+  .cart-summary-container {
+    margin-bottom: 38px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .total-container {
+    margin-left: 46%;
+  }
+  .total {
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: 450;
+    font-size: 23px;
+    line-height: 33px;
+    color: #3e4c59;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .order-button {
+    background-color: #f7931e;
+    color: #ffffff;
+    font-family: 'Roboto';
+    font-size: 11px;
+    border-radius: 10px;
+    border: none;
+    padding-left: 144px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-right: 14px;
+    outline: none;
+    cursor: pointer;
+  }
